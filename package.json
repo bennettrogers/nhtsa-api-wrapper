@@ -8,7 +8,6 @@
     "npm": ">=6.0.0"
   },
   "main": "dist/bundle.min.js",
-  "module": "dist/module/index.js",
   "unpkg": "dist/bundle.min.js",
   "types": "dist/types/index.d.ts",
   "files": [
